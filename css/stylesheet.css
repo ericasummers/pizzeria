@@ -1,0 +1,42 @@
+h1 {
+
+}
+
+h2 {
+
+}
+
+h4 {
+
+}
+
+p {
+
+}
+
+.intro {
+
+}
+
+.footer {
+
+
+}
+
+.dishes {
+
+
+}
+#content {
+  width:85%;
+  background-color:red;
+  padding:0px;
+}
+
+#menu {
+  position:fixed;
+  display:inline;
+  width:15%;
+  background-color:yellow;
+  padding:0px;
+}
