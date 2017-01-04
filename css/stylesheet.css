@@ -31,12 +31,14 @@ p {
   width:85%;
   background-color:red;
   padding:0px;
+  top:400px;
+
 }
 
 #menu {
-  position:fixed;
-  display:inline;
+  position:relative;
   width:15%;
+  height:100px;
   background-color:yellow;
   padding:0px;
 }
