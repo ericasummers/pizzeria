@@ -32,7 +32,8 @@ p {
   background-color:red;
   padding:0px;
   top:400px;
-
+  background-image: url('../img/wood1.jpg');
+  background-repeat: repeat;
 }
 
 #menu {
